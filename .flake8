@@ -1,0 +1,4 @@
+[flake8]
+select = BLK,C,E,F,I,W
+max-complexity = 10
+max-line-length = 120
